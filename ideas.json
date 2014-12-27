@@ -1,0 +1,11 @@
+{
+  "ideas": [
+    {"idea": "A forum", "type": "web"},
+    {"idea": "A CMS", "type": "web"},
+    {"idea": "A static site generator", "type": "web"},
+    {"idea": "An e-commerce site", "type": "web"},
+    {"idea": "A social network", "type": "web"},
+    {"idea": "An RSS Reader", "type": "web"},
+    {"idea": "A calendar application", "type": "web"}
+  ]
+}
