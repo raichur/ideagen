@@ -3,7 +3,7 @@
     {"idea": "A forum", "type": "web"},
     {"idea": "A CMS", "type": "web"},
     {"idea": "A static site generator", "type": "web"},
-    {"idea": "An e-commerce site", "type": "web"},
+    {"idea": "An e-commerce store", "type": "web"},
     {"idea": "A social network", "type": "web"},
     {"idea": "An RSS Reader", "type": "web"},
     {"idea": "A calendar application", "type": "web"},
@@ -14,6 +14,12 @@
     {"idea": "An email client", "type": "web"},
     {"idea": "A recipe management system ", "type": "web"},
     {"idea": "A high school portal for students", "type": "web", "description": "An app that allows students to view the time table, school calendar, and submit homework."},
-    {"idea": "", "type": "web"}
+    {"idea": "A color picker app", "type": "web", "desription": "An app to help front-end developers with picking and managing colors."},
+    {"idea": "A calculator", "type": "web"},
+    {"idea": "A word counter", "type": "web"},
+    {"idea": "A timer", "type": "web"},
+    {"idea": "A HTML5-based game with <a href='http://phaser.io'>Phaser</a>", "type": "web"},
+    {"idea": "A color clock", "type": "web"},
+    {"idea": "A search engine", "type": "web"}
   ]
 }
