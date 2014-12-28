@@ -20,15 +20,22 @@ p {
 button {
   font-size: 3rem;
   padding: 20px;
-  border-radius: 30px;
+  border-radius: 50px;
   color: #1d1d1d;
   background: #00bbf9;
   border: none;
   transition: all ease .3s;
   cursor: pointer;
   outline: none;
+  width: 500px
 }
 button:hover {
   background: #0093fc;
   color: white;
+}
+a {
+  color: #00bbf9;
+}
+#appIdeaDesc {
+  margin-top: -50px;
 }

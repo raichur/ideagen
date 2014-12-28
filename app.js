@@ -1,5 +1,6 @@
 var addIdeaElement = document.getElementById('appIdea'),
-ideasRem = document.getElementById('ideasRem');
+ideasRem = document.getElementById('ideasRem'),
+appIdeaDesc = document.getElementById('appIdeaDesc');
 
 function getJSON(url) {
   return new Promise(function(resolve, reject) {
@@ -45,12 +46,19 @@ function generateIdea() {
     }
     var index = Math.floor(Math.random()*uniqueRandoms.length);
     var randomIdea = uniqueRandoms[index];
+
     ideasRem.innerHTML = inWords(uniqueRandoms.length - 1);
+
     uniqueRandoms.splice(index, 1);
     if(uniqueRandoms.length < 1){
       addIdeaElement.innerHTML = "Sorry, I'm out of ideas."
     } else {
       addIdeaElement.innerHTML = data.ideas[randomIdea].idea;
+      if(data.ideas[randomIdea].description) {
+        appIdeaDesc.innerHTML = data.ideas[randomIdea].description;
+      } else {
+        appIdeaDesc.innerHTML = '<br/>';
+      }
     }
   });
 }

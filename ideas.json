@@ -6,6 +6,14 @@
     {"idea": "An e-commerce site", "type": "web"},
     {"idea": "A social network", "type": "web"},
     {"idea": "An RSS Reader", "type": "web"},
-    {"idea": "A calendar application", "type": "web"}
+    {"idea": "A calendar application", "type": "web"},
+    {"idea": "A Library Management System", "type": "web"},
+    {"idea": "A <a href='http://twitter.com'>Twitter</a> clone", "type": "web"},
+    {"idea": "A <a href='http://getpocket.com'>Pocket</a> clone", "type": "web"},
+    {"idea": "A blog", "type": "web"},
+    {"idea": "An email client", "type": "web"},
+    {"idea": "A recipe management system ", "type": "web"},
+    {"idea": "A high school portal for students", "type": "web", "description": "An app that allows students to view the time table, school calendar, and submit homework."},
+    {"idea": "", "type": "web"}
   ]
 }
