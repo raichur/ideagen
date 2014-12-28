@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,500);
+body {
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+  color: #00bbf9;
+  background: #1d1d1d;
+  font-family: Roboto;
+  font-weight: 100;
+}
+#appIdea {
+  font-size: 5rem;
+}
+#ideasRem {
+  font-weight: 500;
+}
+p {
+  font-size: 2rem;
+}
+button {
+  font-size: 3rem;
+  padding: 20px;
+  border-radius: 30px;
+  color: #1d1d1d;
+  background: #00bbf9;
+  border: none;
+  transition: all ease .3s;
+  cursor: pointer;
+  outline: none;
+}
+button:hover {
+  background: #0093fc;
+  color: white;
+}
