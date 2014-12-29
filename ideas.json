@@ -20,6 +20,9 @@
     {"idea": "A timer", "type": "web"},
     {"idea": "A HTML5-based game with <a href='http://phaser.io'>Phaser</a>", "type": "web"},
     {"idea": "A color clock", "type": "web"},
-    {"idea": "A search engine", "type": "web"}
+    {"idea": "A search engine", "type": "web"},
+    {"idea": "A chat bot", "type": "web"},
+    {"idea": "A book notes app", "type": "web"},
+    {"idea": "An Instagram color search app", "type": "web"}
   ]
 }
