@@ -1,11 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,500);
 body {
   margin: 0 auto;
   text-align: center;
   padding: 0;
   color: #00bbf9;
   background: #1d1d1d;
-  font-family: Roboto;
+  font-family: Avenir Next, Helvetica Neue, Arial, sans-serif;
   font-weight: 100;
 }
 #appIdea {
