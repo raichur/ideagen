@@ -26,7 +26,8 @@ button {
   transition: all ease .3s;
   cursor: pointer;
   outline: none;
-  width: 500px
+  width: 500px;
+  font-family: Avenir Next, Helvetiva Neue, Arial, sans-serif;
 }
 button:hover {
   background: #0093fc;
